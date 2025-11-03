@@ -168,8 +168,3 @@ The `test.ipynb` notebook details the training of three models:
 
 ---
 
-## 🙋‍♂️ Author
-
-**Shubham Pandey**
-📧 [Email Me](mailto:shubhamppandey1084@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/shubham-pandey-6a65a524a/) • [GitHub](https://github.com/Shubhampandey1git)
